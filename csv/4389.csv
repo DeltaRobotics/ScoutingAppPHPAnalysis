@@ -1,0 +1,8 @@
+TeamNumber,TeamName,MatchNumber,AllianceColor,AutonomousSkystoneDeliver,AutonomousStoneDeliver,AutonomousFoundationMoved,AutonomousParked,TeleOpGlyphStonePlaced,TeleOpGlyphStoneDelivered,EndGameCapstone,EndGameCapstoneLevels,EndGameFoundationMoved,EndGameParking,ExtrasRobotScoringEffeciencyTransportingStones,ExtrasRobotScoringEffeciencyPlacingStones,ExtrasRobotSpeed,ExtrasRobotProblemsConnections,ExtrasRobotProblemsMechanical,ExtrasComments
+4389,Higgs Bozos,1,Red,No Attempt,0,Achieved,0,Parked,2,3,0,0,1,1,so-so,so-so,medium,,,
+4389,Higgs Bozos,2,Red,No Attempt,0,No Attempt,0,Attempted,2,3,1,0,0,0,so-so,so-so,fast,,,competed alone
+
+4389,Higgs Bozos,3,Blue,No Attempt,0,No Attempt,0,Attempted,0,2,0,0,1,1,did not attempt,bad,slow,,,
+4389,Higgs Bozos,11,Blue,No Attempt,0,Achieved,0,No Attempt,2,4,0,0,0,0,so-so,so-so,fast,,,
+4389,Higgs Bozos,22,Blue,No Attempt,0,No Attempt,0,Parked,3,3,0,0,0,0,so-so,so-so,medium,,,
+4389,Higgs Bozos,718,Blue,1,0,Achieved,0,No Attempt,2,2,0,0,1,0,so-so,did not attempt,slow,,,

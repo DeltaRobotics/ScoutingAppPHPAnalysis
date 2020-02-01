@@ -1,0 +1,5 @@
+TeamNumber,TeamName,MatchNumber,AllianceColor,AutonomousSkystoneDeliver,AutonomousStoneDeliver,AutonomousFoundationMoved,AutonomousParked,TeleOpGlyphStonePlaced,TeleOpGlyphStoneDelivered,EndGameCapstone,EndGameCapstoneLevels,EndGameFoundationMoved,EndGameParking,ExtrasRobotScoringEffeciencyTransportingStones,ExtrasRobotScoringEffeciencyPlacingStones,ExtrasRobotSpeed,ExtrasRobotProblemsConnections,ExtrasRobotProblemsMechanical,ExtrasComments
+4324,Lost In Time,3,Red,No Attempt,0,No Attempt,0,No Attempt,0,0,0,0,0,0,bad,bad,slow,yes,yes,
+4324,Lost In Time,10,Red,No Attempt,0,No Attempt,0,Parked,4,3,0,0,0,1,so-so,good,medium,,,
+4324,Lost In Time,18,Blue,Attempted,0,Attempted,0,Attempted,3,3,0,0,0,0,so-so,bad,fast,yes,,
+4324,Lost In Time,24,Red,Attempted,0,No Attempt,0,No Attempt,3,3,0,0,0,0,good,good,medium,,,

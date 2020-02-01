@@ -1,0 +1,11 @@
+TeamNumber,TeamName,MatchNumber,AllianceColor,AutonomousSkystoneDeliver,AutonomousStoneDeliver,AutonomousFoundationMoved,AutonomousParked,TeleOpGlyphStonePlaced,TeleOpGlyphStoneDelivered,EndGameCapstone,EndGameCapstoneLevels,EndGameFoundationMoved,EndGameParking,ExtrasRobotScoringEffeciencyTransportingStones,ExtrasRobotScoringEffeciencyPlacingStones,ExtrasRobotSpeed,ExtrasRobotProblemsConnections,ExtrasRobotProblemsMechanical,ExtrasComments
+7130,Royal Robots,5,Red,No Attempt,0,No Attempt,0,No Attempt,0,1,0,0,0,1,bad,did not attempt,slow,,,
+7130,Royal Robots,6,Blue,No Attempt,0,No Attempt,0,Parked,0,1,0,0,0,0,bad,did not attempt,medium,,yes,wheel broke
+
+7130,Royal Robots,7,Red,No Attempt,0,No Attempt,0,Parked,0,1,0,0,0,1,bad,did not attempt,medium,,,
+7130,Royal Robots,9,Red,No Attempt,0,No Attempt,0,Parked,0,2,0,0,0,1,so-so,did not attempt,medium,,,
+7130,Royal Robots,10,Red,No Attempt,0,No Attempt,0,Parked,1,2,0,0,0,0,bad,did not attempt,fast,,,
+7130,Royal Robots,16,Blue,No Attempt,0,No Attempt,0,No Attempt,0,1,0,0,0,0,bad,did not attempt,fast,,,
+7130,Royal Robots,18,Blue,No Attempt,0,No Attempt,0,Parked,0,2,0,0,0,0,so-so,did not attempt,fast,,,
+7130,Royal Robots,25,Red,No Attempt,0,Achieved,0,Parked,0,0,0,0,0,0,did not attempt,did not attempt,did not move,,yes,
+7130,Royal Robots,32,Red,No Attempt,0,No Attempt,0,Parked,2,2,0,0,0,1,bad,bad,slow,yes,,

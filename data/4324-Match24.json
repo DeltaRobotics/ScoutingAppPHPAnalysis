@@ -1,0 +1,126 @@
+{
+ "gameMode": "Team",
+ "allianceColor": "Red",
+ "TeleOp": {
+  "item2": {
+   "box0Checked": false,
+   "title": "Team Role",
+   "box0": "Deliver",
+   "count": 2,
+   "box1Checked": true,
+   "box1": "Build",
+   "itemType": "CheckBox"
+  },
+  "item3": {
+   "value": 1,
+   "title": "Highest Stone Placed",
+   "itemType": "Counter"
+  },
+  "item1": {
+   "value": 3,
+   "title": "Stones on Foundation",
+   "itemType": "Counter"
+  },
+  "item0": {
+   "value": 3,
+   "title": "Stones in Building Zone",
+   "itemType": "Counter"
+  },
+  "itemCount": 4
+ },
+ "startingPosition": "depot",
+ "Autonomous": {
+  "item4": {
+   "value": 2,
+   "textValue": "No Attempt",
+   "title": "Parking",
+   "itemType": "RadioGroup"
+  },
+  "item2": {
+   "value": 0,
+   "title": "Stones in Building Zone",
+   "itemType": "Counter"
+  },
+  "item3": {
+   "value": 0,
+   "title": "Stones on Foundation",
+   "itemType": "Counter"
+  },
+  "item1": {
+   "value": 2,
+   "textValue": "No Attempt",
+   "title": "Moving Foundation",
+   "itemType": "RadioGroup"
+  },
+  "item0": {
+   "value": 2,
+   "textValue": "Attempted",
+   "title": "Skystones",
+   "itemType": "RadioGroup"
+  },
+  "itemCount": 5
+ },
+ "matchNumber": "24",
+ "Extras": {
+  "item4": {
+   "value": "",
+   "title": "Comments",
+   "itemType": "TextArea"
+  },
+  "item2": {
+   "value": 1,
+   "textValue": "Medium",
+   "title": "Robot Speed",
+   "itemType": "RadioGroup"
+  },
+  "item3": {
+   "box0Checked": false,
+   "title": "Robot Problems",
+   "box0": "Phone Connection Issues",
+   "count": 2,
+   "box1Checked": false,
+   "box1": "Mechanical Issues",
+   "itemType": "CheckBox"
+  },
+  "item1": {
+   "value": 0,
+   "textValue": "Good",
+   "title": "Robot Efficiency at Placing Stones",
+   "itemType": "RadioGroup"
+  },
+  "item0": {
+   "value": 0,
+   "textValue": "Good",
+   "title": "Robot Efficiency at Transporting Stones",
+   "itemType": "RadioGroup"
+  },
+  "itemCount": 5,
+  "include": true
+ },
+ "teamNumber": "4324",
+ "gameBy": "DR-2015-Official",
+ "EndGame": {
+  "item2": {
+   "value": false,
+   "title": "Moving Foundation",
+   "itemType": "ToggleButton"
+  },
+  "item3": {
+   "value": false,
+   "title": "Parking",
+   "itemType": "ToggleButton"
+  },
+  "item1": {
+   "value": 0,
+   "title": "Capstone Levels",
+   "itemType": "Counter"
+  },
+  "item0": {
+   "value": false,
+   "title": "Capstone",
+   "itemType": "ToggleButton"
+  },
+  "itemCount": 4
+ },
+ "gameTitle": "Skystone"
+}

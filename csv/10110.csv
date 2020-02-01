@@ -1,0 +1,5 @@
+TeamNumber,TeamName,MatchNumber,AllianceColor,AutonomousSkystoneDeliver,AutonomousStoneDeliver,AutonomousFoundationMoved,AutonomousParked,TeleOpGlyphStonePlaced,TeleOpGlyphStoneDelivered,EndGameCapstone,EndGameCapstoneLevels,EndGameFoundationMoved,EndGameParking,ExtrasRobotScoringEffeciencyTransportingStones,ExtrasRobotScoringEffeciencyPlacingStones,ExtrasRobotSpeed,ExtrasRobotProblemsConnections,ExtrasRobotProblemsMechanical,ExtrasComments
+10110,Pixel Knights,3,Blue,No Attempt,0,Attempted,0,Parked,1,2,0,0,1,0,bad,bad,fast,,yes,
+10110,Pixel Knights,5,Red,No Attempt,0,No Attempt,0,Parked,1,2,0,0,1,1,so-so,so-so,medium,,,
+10110,Pixel Knights,11,Red,No Attempt,0,No Attempt,0,Parked,0,1,0,0,0,0,did not attempt,did not attempt,did not move,,,
+10110,Pixel Knights,18,Blue,No Attempt,0,No Attempt,0,No Attempt,3,3,0,0,0,1,did not attempt,did not attempt,did not move,,,
