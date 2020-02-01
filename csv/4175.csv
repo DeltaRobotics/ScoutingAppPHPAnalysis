@@ -1,5 +1,0 @@
-TeamNumber,TeamName,MatchNumber,AllianceColor,AutonomousSkystoneDeliver,AutonomousStoneDeliver,AutonomousFoundationMoved,AutonomousParked,TeleOpGlyphStonePlaced,TeleOpGlyphStoneDelivered,EndGameCapstone,EndGameCapstoneLevels,EndGameFoundationMoved,EndGameParking,ExtrasRobotScoringEffeciencyTransportingStones,ExtrasRobotScoringEffeciencyPlacingStones,ExtrasRobotSpeed,ExtrasRobotProblemsConnections,ExtrasRobotProblemsMechanical,ExtrasComments
-4175,MechaMETROzilla,6,Red,No Attempt,0,Achieved,0,Parked,3,2,0,0,1,0,good,good,medium,,,
-4175,MechaMETROzilla,13,Blue,No Attempt,1,Achieved,1,Parked,4,4,0,0,1,1,good,good,fast,,,
-4175,MechaMETROzilla,20,Red,No Attempt,0,Achieved,0,Parked,5,0,0,0,1,0,good,good,medium,,,
-4175,MechaMETROzilla,30,Blue,No Attempt,0,Achieved,0,Attempted,5,2,0,0,0,1,good,good,medium,,,

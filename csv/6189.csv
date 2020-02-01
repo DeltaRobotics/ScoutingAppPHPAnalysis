@@ -1,5 +1,0 @@
-TeamNumber,TeamName,MatchNumber,AllianceColor,AutonomousSkystoneDeliver,AutonomousStoneDeliver,AutonomousFoundationMoved,AutonomousParked,TeleOpGlyphStonePlaced,TeleOpGlyphStoneDelivered,EndGameCapstone,EndGameCapstoneLevels,EndGameFoundationMoved,EndGameParking,ExtrasRobotScoringEffeciencyTransportingStones,ExtrasRobotScoringEffeciencyPlacingStones,ExtrasRobotSpeed,ExtrasRobotProblemsConnections,ExtrasRobotProblemsMechanical,ExtrasComments
-6189,High Voltage,10,Red,No Attempt,0,Unsure,0,Parked,1,1,0,0,0,0,so-so,so-so,slow,,,
-6189,High Voltage,16,Blue,1,0,No Attempt,0,Parked,1,1,0,0,0,1,bad,bad,medium,,,
-6189,High Voltage,20,Blue,Attempted,0,No Attempt,0,Parked,2,2,0,0,0,1,bad,bad,fast,,,
-6189,High Voltage,26,Red,Attempted,0,No Attempt,0,Parked,1,1,0,0,0,1,bad,bad,medium,,,

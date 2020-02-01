@@ -1,8 +1,0 @@
-TeamNumber,TeamName,MatchNumber,AllianceColor,AutonomousSkystoneDeliver,AutonomousStoneDeliver,AutonomousFoundationMoved,AutonomousParked,TeleOpGlyphStonePlaced,TeleOpGlyphStoneDelivered,EndGameCapstone,EndGameCapstoneLevels,EndGameFoundationMoved,EndGameParking,ExtrasRobotScoringEffeciencyTransportingStones,ExtrasRobotScoringEffeciencyPlacingStones,ExtrasRobotSpeed,ExtrasRobotProblemsConnections,ExtrasRobotProblemsMechanical,ExtrasComments
-6113,RoboHawks,1,Blue,No Attempt,0,No Attempt,0,No Attempt,0,0,0,0,0,0,did not attempt,did not attempt,did not move,,yes,did not run. removed from field
-6113,RoboHawks,11,Red,No Attempt,0,No Attempt,0,Parked,2,3,0,0,0,1,so-so,bad,medium,,,
-6113,RoboHawks,12,Blue,No Attempt,0,Achieved,0,Parked,3,2,0,0,1,1,so-so,so-so,medium,,,
-6113,RoboHawks,13,Blue,No Attempt,0,Achieved,0,Parked,1,3,0,0,1,0,good,good,fast,,,
-6113,RoboHawks,14,Red,No Attempt,0,Achieved,0,No Attempt,1,3,0,0,0,1,so-so,so-so,medium,,,
-6113,RoboHawks,21,Blue,No Attempt,0,No Attempt,0,Parked,3,3,0,0,1,1,so-so,so-so,medium,,,
-6113,RoboHawks,27,Blue,No Attempt,3,Achieved,3,Attempted,0,4,0,0,1,1,so-so,so-so,slow,,,

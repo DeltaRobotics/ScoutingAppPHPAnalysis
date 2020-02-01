@@ -1,8 +1,0 @@
-TeamNumber,TeamName,MatchNumber,AllianceColor,AutonomousSkystoneDeliver,AutonomousStoneDeliver,AutonomousFoundationMoved,AutonomousParked,TeleOpGlyphStonePlaced,TeleOpGlyphStoneDelivered,EndGameCapstone,EndGameCapstoneLevels,EndGameFoundationMoved,EndGameParking,ExtrasRobotScoringEffeciencyTransportingStones,ExtrasRobotScoringEffeciencyPlacingStones,ExtrasRobotSpeed,ExtrasRobotProblemsConnections,ExtrasRobotProblemsMechanical,ExtrasComments
-9925,Delta Robotics,2,Blue,No Attempt,0,No Attempt,0,Parked,1,0,1,0,1,1,bad,bad,medium,,,
-9925,Delta Robotics,4,Blue,No Attempt,0,No Attempt,0,Parked,2,2,0,0,1,1,so-so,so-so,slow,,,
-9925,Delta Robotics,5,Red,0,4,Achieved,4,Parked,5,2,1,4,1,1,did not attempt,did not attempt,did not move,,,
-9925,Delta Robotics,8,Red,No Attempt,0,No Attempt,0,Parked,1,2,0,0,1,1,good,so-so,fast,,,
-9925,Delta Robotics,12,Red,No Attempt,0,No Attempt,0,Parked,3,2,0,0,1,1,good,good,fast,,,
-9925,Delta Robotics,16,Red,1,1,Achieved,1,Parked,3,3,0,0,1,1,good,good,fast,,,
-9925,Delta Robotics,22,Red,Attempted,0,Attempted,0,Attempted,1,1,0,0,0,0,bad,bad,medium,,,

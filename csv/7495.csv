@@ -1,6 +1,0 @@
-TeamNumber,TeamName,MatchNumber,AllianceColor,AutonomousSkystoneDeliver,AutonomousStoneDeliver,AutonomousFoundationMoved,AutonomousParked,TeleOpGlyphStonePlaced,TeleOpGlyphStoneDelivered,EndGameCapstone,EndGameCapstoneLevels,EndGameFoundationMoved,EndGameParking,ExtrasRobotScoringEffeciencyTransportingStones,ExtrasRobotScoringEffeciencyPlacingStones,ExtrasRobotSpeed,ExtrasRobotProblemsConnections,ExtrasRobotProblemsMechanical,ExtrasComments
-7495,Rocketman,5,Red,1,1,No Attempt,1,Parked,2,3,0,0,1,1,did not attempt,did not attempt,did not move,,,
-7495,Rocketman,8,Blue,No Attempt,0,No Attempt,0,Parked,2,2,0,0,0,0,good,good,fast,,,
-7495,Rocketman,14,Red,1,1,No Attempt,1,Parked,3,0,0,0,1,0,bad,bad,medium,,,
-7495,Rocketman,20,Red,1,1,No Attempt,1,Parked,1,3,1,0,0,1,bad,bad,medium,,,
-7495,Rocketman,28,Blue,1,0,No Attempt,0,Parked,2,2,0,0,0,0,good,good,fast,,,

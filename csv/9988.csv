@@ -1,4 +1,0 @@
-TeamNumber,TeamName,MatchNumber,AllianceColor,AutonomousSkystoneDeliver,AutonomousStoneDeliver,AutonomousFoundationMoved,AutonomousParked,TeleOpGlyphStonePlaced,TeleOpGlyphStoneDelivered,EndGameCapstone,EndGameCapstoneLevels,EndGameFoundationMoved,EndGameParking,ExtrasRobotScoringEffeciencyTransportingStones,ExtrasRobotScoringEffeciencyPlacingStones,ExtrasRobotSpeed,ExtrasRobotProblemsConnections,ExtrasRobotProblemsMechanical,ExtrasComments
-9988,Taft Robotics,3,Red,No Attempt,0,Attempted,0,No Attempt,2,2,0,0,0,1,bad,so-so,medium,,,
-9988,Taft Robotics,8,Blue,No Attempt,0,Attempted,0,Parked,0,0,0,0,0,0,did not attempt,did not attempt,slow,,,
-9988,Taft Robotics,32,Blue,No Attempt,0,No Attempt,0,Parked,0,0,0,0,0,0,so-so,did not attempt,fast,,,
